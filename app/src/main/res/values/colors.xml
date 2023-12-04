@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#8DD7F6</color>
+    <color name="oren">#FE6215</color>
+    <color name="transparan">#00FE6215</color>
+    <color name="biru">#0089F9</color>
+    <color name="orenpudar">#A3FE6215</color>
+
+</resources>
